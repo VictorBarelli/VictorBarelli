@@ -1,16 +1,28 @@
-## Hi there 👋
+#Victor-Barelli-README.md
 
-<!--
-**VictorBarelli/VictorBarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi 👋i'm Victor</h3>
 
-Here are some ideas to get you started:
+<h3 align="center">A backend developer/DevOps from Brasil</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I automate boring processes
+- 🔭 Currently working on PipaStudios
+- 🌱 Learning: **Express.js, NestJS, MongoDB**
+- ✍️ I write articles on https://medium.com/@vbarelli1
+- 💬 Ask me about: **Python, Javascript, AWS, Kubernates, Doker**
+- 📫 How to reach me: vbarelli1@gmail.com
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/victor-barelli-661419204/)
+
+---
+
+## 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+
+---
