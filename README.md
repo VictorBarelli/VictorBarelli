@@ -24,5 +24,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 
 ---
