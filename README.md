@@ -8,7 +8,7 @@
 - 🔭 Currently working on PipaStudios
 - 🌱 Learning: **Express.js, NestJS, MongoDB**
 - ✍️ I write articles on https://medium.com/@vbarelli1
-- 💬 Ask me about: **Python, Javascript, AWS, Kubernates, Doker**
+- 💬 Ask me about: **Python, Javascript, AWS, Kubernates, Docker**
 - 📫 How to reach me: vbarelli1@gmail.com
 
 ---
