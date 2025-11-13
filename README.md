@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi 👋i'm Victor</h3>
 
-<h3 align="center">A backend developer/DevOps from Brasil</h3>
+<h3 align="center">A DevOps from Brasil</h3>
 
 - 🚀 I automate boring processes
 - 🔭 Currently working on PipaStudios
